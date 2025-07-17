@@ -187,7 +187,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Dhananjay Pandey**
+**Shubhranshu Pandey**
 - GitHub: [@Shubh1hulk](https://github.com/Shubh1hulk)
 - Project: [Contact Book Full Stack](https://github.com/Shubh1hulk/contact-book-fullstack)
 
